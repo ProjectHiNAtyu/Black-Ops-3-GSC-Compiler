@@ -1,0 +1,18 @@
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.csproj.AssemblyReference.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.csproj.CoreCompileInputs.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\bin\Debug\Simple PC GSC Injector.exe.config
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\bin\Debug\Simple PC GSC Injector.exe
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\bin\Debug\Simple PC GSC Injector.pdb
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.exe
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.pdb
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\bin\Debug\Simple PC GSC Injector.exe.config
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\bin\Debug\Simple PC GSC Injector.exe
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\bin\Debug\Simple PC GSC Injector.pdb
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.csproj.AssemblyReference.cache
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.csproj.SuggestedBindingRedirects.cache
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.csproj.CoreCompileInputs.cache
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.exe
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.pdb
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple_PC_GSC_Injector.MW2019GscInjector.resources
+E:\_ProjectHinataPG\BO3\Black-Ops-3-GSC-Compiler-main\Simple PC GSC Injector\obj\Debug\Simple PC GSC Injector.csproj.GenerateResource.cache

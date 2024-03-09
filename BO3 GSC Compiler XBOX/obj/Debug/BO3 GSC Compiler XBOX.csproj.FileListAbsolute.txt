@@ -1,0 +1,14 @@
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3 GSC Compiler XBOX.csproj.AssemblyReference.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3 GSC Compiler XBOX.csproj.SuggestedBindingRedirects.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\bin\Debug\BO3 GSC Compiler Xbox.exe.config
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\bin\Debug\BO3 GSC Compiler Xbox.exe
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\bin\Debug\BO3 GSC Compiler Xbox.pdb
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\bin\Debug\Irony.dll
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3_GSC_Compiler_XBOX.XBOXCredits.resources
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3_GSC_Compiler_XBOX.Properties.Resources.resources
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3_GSC_Compiler_XBOX.XBOXUI.resources
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3 GSC Compiler XBOX.csproj.GenerateResource.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3 GSC Compiler XBOX.csproj.CoreCompileInputs.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3 GSC Compiler XBOX.csproj.CopyComplete
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3 GSC Compiler Xbox.exe
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler XBOX\obj\Debug\BO3 GSC Compiler Xbox.pdb

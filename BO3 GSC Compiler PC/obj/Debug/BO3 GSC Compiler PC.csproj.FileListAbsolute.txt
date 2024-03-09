@@ -1,0 +1,14 @@
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.csproj.AssemblyReference.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\bin\Debug\BO3 GSC Compiler PC.exe.config
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\bin\Debug\BO3 GSC Compiler PC.exe
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\bin\Debug\BO3 GSC Compiler PC.pdb
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\bin\Debug\Irony.dll
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3_GSC_Compiler_PC.PCCredits.resources
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3_GSC_Compiler_PC.PCUI.resources
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3_GSC_Compiler_PC.Properties.Resources.resources
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.csproj.GenerateResource.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.csproj.CoreCompileInputs.cache
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.csproj.CopyComplete
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.exe
+C:\Users\0726k\Downloads\HinataPG\BO3\Black-Ops-3-GSC-Compiler-main\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.pdb

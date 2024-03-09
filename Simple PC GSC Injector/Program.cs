@@ -20,7 +20,7 @@ namespace Simple_PC_GSC_Injector
             }
             else
             {
-                var file = new OpenFileDialog { Filter = "Compiled GSC File|*.gsc" };
+                var file = new OpenFileDialog { Filter = "Compiled GSC File|*.gscbin" };
                 if (file.ShowDialog() != DialogResult.OK) return;
                 using (file)
                 {
@@ -119,7 +119,7 @@ namespace Simple_PC_GSC_Injector
             try
             {
                 Process process;
-                process = Process.GetProcessesByName("BlackOps3")[0];
+                process = Process.GetProcessesByName( "game_dx12_ship_replay" )[0];
                 processBAddr = process.MainModule.BaseAddress;
                 processHandle = OpenProcess(PROCESS_WM_READ | PROCESS_VM_WRITE | PROCESS_VM_OPERATION, true, process.Id);
                 return true;
@@ -135,7 +135,7 @@ namespace Simple_PC_GSC_Injector
         {
             if (!UpdateProcessInfo())
             {
-                Console.WriteLine("BO3 is not running!");
+                Console.WriteLine("MW2019 is not running!");
                 Console.ReadKey();
                 return;
             }
@@ -190,7 +190,7 @@ namespace Simple_PC_GSC_Injector
             if (assetbufferA != assetbufferB)
                 Console.WriteLine("Script injected successfully!");
             else
-                Console.WriteLine("Unable to write to BO3's memory!");
+                Console.WriteLine( "Unable to write to MW2019's memory!" );
             Console.ReadKey();
         }
     }
